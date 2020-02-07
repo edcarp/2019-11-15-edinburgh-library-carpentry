@@ -29,4 +29,4 @@
 * too fast when running through examples
 * maybe slightly fast session
 * nothing to add- really well balanced intro
-
+* would prefer a web-based workshop (remote session) v "classroom"
